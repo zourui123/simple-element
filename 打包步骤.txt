@@ -1,0 +1,1 @@
+公用路径   assetsPublicPath: '/' 改为 './'

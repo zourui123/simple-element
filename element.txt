@@ -1,0 +1,9 @@
+想要获取el-tab-pane 选项卡的index
+
+在父标签 el-tabs @tab-click="handleClick"
+
+handleClick(tab,event){
+  tab.index -- 选项卡索引
+}
+
+el-tab-pane label="汉堡"
